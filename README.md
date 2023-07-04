@@ -1,11 +1,26 @@
-### Hi there 👋
-Meu nome é Silas Felipe, tenho 38 anos, sou programador front-end, freelance na area de desenvolvimento web.
+<h2>Hi there 👋
+<br>My name is Silas Felipe, I'm 38 years old, I'm a front-end programmer,<br>and I also work how freelance in  web development.:rocket:<h2/>
 <br>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=blue" alt="logo-html"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=orange" alt="logo-css"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-js"/>
-<img width="22px" src="https://emadmadrid.es/wp-content/uploads/2019/01/new-instagram-logo-png-transparent.png" alt="logo-instagram"/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/>
+Connect with me:<img width="22px" align="center" src="https://www.fiosgenomics.com/wp-content/uploads/2017/03/Network-component-logo-transparent-background.png" alt="network-icon"/>
+<br>
+<br>
+<p>
+<a href="https://www.instagram.com/silasfelipe15">
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="42px" src="https://clipart.info/images/ccovers/1559063340instagram-icon-png-logo.png" />
+</a>
+<a href="https://www.linkedin.com/in/silas-felipe-451954257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B80zkbAgzSzyttPPC8nQW8g%3D%3D/">
+<img align="left" alt="LinkedIn" width="42px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" />
+</a>
+</p>
+<br>
+<br>
+<h2>Languages and Tools:<img width="32px" align="center" src="https://i.pinimg.com/originals/1d/e4/dd/1de4ddd831f4a502050269dda9de4290.png"/>
+<br>
+<img height="60" src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg"></h2>
+<br>
+
+
+
+
 
 
