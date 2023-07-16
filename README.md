@@ -7,7 +7,7 @@
 <h1 align="center">Connect with me:<img width="42px" align="center" src="https://www.fiosgenomics.com/wp-content/uploads/2017/03/Network-component-logo-transparent-background.png" alt="network-icon"/></h1>
 
 <p align="center">
-<a href="https://www.instagram.com/silasfelipe15">
+<a href="https://www.instagram.com/silasfelipe15" target="_blank">
 <img alt="icone do instagram uma camera dentro de um quadrado" width="52px" src="https://clipart.info/images/ccovers/1559063340instagram-icon-png-logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/silas-felipe-451954257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B80zkbAgzSzyttPPC8nQW8g%3D%3D/">
