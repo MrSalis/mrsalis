@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center" font-size: 10px>  Hi there 👋
-<br>My name is Silas Felipe, I'm 38 years old, I'm a front-end programmer,<br>and I also work how freelance in  web development.:rocket:</h2>
+<br>My name is Silas Felipe, I'm 39 years old, I'm a front-end programmer,<br>and I also work how freelance in  web development.:rocket:</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
